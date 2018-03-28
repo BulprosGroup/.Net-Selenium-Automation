@@ -41,5 +41,6 @@ This project will restore the following NuGet packages:
 ## Further help
 
 To get more help on:
-NUnit - https://github.com/nunit/docs/wiki
-Selenium - https://www.seleniumhq.org/docs/03_webdriver.jsp
+
+* NUnit - https://github.com/nunit/docs/wiki
+* Selenium - https://www.seleniumhq.org/docs/03_webdriver.jsp
