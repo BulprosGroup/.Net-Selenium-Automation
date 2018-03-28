@@ -111,7 +111,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Data\example.jpg" />
-    <Content Include="prerequisites.txt" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Logs\" />
